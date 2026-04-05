@@ -1,0 +1,37 @@
+.navbar-brand {
+	font-family: Rubik,sans-serif;
+	font-weight: bold;
+	font-size: 24pt;
+}
+
+.main {
+	font-family : "DM Mono", monospace;
+}
+
+.white-text {
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+}
+
+.blue-button {
+    padding: 5px;
+    font-size: 2em;
+    color: white;
+    text-decoration: none;
+    border-radius:20px;
+    border-top-color:black;
+    border-top-style:solid;
+    border-top-width:3px;
+    border-right-color:black;
+    border-right-style:solid;
+    border-right-width:3px;
+    border-bottom-color:black;
+    border-bottom-style:solid;
+    border-bottom-width:3px;
+    border-left-color:black;
+    border-left-style:solid;
+    border-left-width:3px;
+    background:linear-gradient(135deg,rgb(179,225,254) 0%,rgb(20,20,20) 100%)
+}
