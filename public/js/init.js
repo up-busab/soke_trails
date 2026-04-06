@@ -9,7 +9,7 @@ navbar = "\
       <div class='collapse navbar-collapse justify-content-end' id='navbarsExample01'>\
         <ul class='navbar-nav'>\
 		  <li class='nav-item dropdown'>\
-            <a class='nav-link dropdown-toggle' href='http://example.com/' id='dropdown01' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>Events</a>\
+            <a class='nav-link dropdown-toggle chunky' href='http://example.com/' id='dropdown01' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>Events</a>\
             <div class='dropdown-menu' aria-labelledby='dropdown01'>\
               <a class='dropdown-item' href='ride_the_keweenaw.html'>Ride the Keweenaw</a>\
               <a class='dropdown-item' href='miners_revenge.html'>Miner's Revenge</a>\
