@@ -12,7 +12,7 @@ navbar = "\
             <a class='nav-link dropdown-toggle chunky' href='http://example.com/' id='dropdown01' data-toggle='dropdown' aria-haspopup='true' aria-expanded='false'>Events</a>\
             <div class='dropdown-menu' aria-labelledby='dropdown01'>\
               <a class='dropdown-item' href='ride_the_keweenaw.html'>Ride the Keweenaw</a>\
-              <a class='dropdown-item' href='miners_revenge.html'>Miner's Revenge</a>\
+              <a class='dropdown-item' href='miners.html'>Miner's Revenge</a>\
             </div>\
 		  <li class='nav-item active'><a class='nav-link' href='trails.html'>Trails<span class='sr-only'>(current)</span></a></li>\
           <!--li class='nav-item active'><a class='nav-link' href='proposals.html'>Proposals<span class='sr-only'>(current)</span></a></li--!>\
